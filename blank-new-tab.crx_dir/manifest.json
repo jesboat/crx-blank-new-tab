@@ -20,5 +20,6 @@
     "48": "icon-48x48.png",
     "128": "icon.png"
   },
-  "short_name": "Blank New Tab"
+  "short_name": "Blank New Tab",
+  "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyYKIjlpSoRRDd8e2M1/B4JtpqM1OmQb079BA4BMVcN0QrtGnwkr+CuxwdCGTEDnZdFMlxytzXzpWXYHPCbHxlC2sSYGZti7jTQWMfZYZWXxqwUR+l1AVgkO2AHSi4ktvFxXHTv82DD9Lm1VSkxT0yBre963nftMrRlS2JUQpHLMpxiXHrzMvJn25a9AQ8AiYkXlvJvjP1sDS/UijK2Xjqs0mrGjSPo75z0uad+Po6Vd4tkfO4hWt/zHqxG9zbW9h3SU6XvbkqlWb9LkAAm00aylJljX/9tHt8LdSeLAUWQqf3P/Zd7RU64m8fj2dWXgRJhDA3M6CaojuqiX9LdxbRwIDAQAB"
 }
